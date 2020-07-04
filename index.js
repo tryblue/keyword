@@ -17,3 +17,5 @@ const matchKeyword = (productName, keywords) => {
       ).length === 0
   );
 };
+
+module.exports = matchKeyword;
