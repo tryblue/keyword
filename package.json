@@ -1,0 +1,10 @@
+{
+  "name": "keyword",
+  "version": "1.0.0",
+  "description": "Standard +- keyword matcher",
+  "main": "index.js",
+  "repository": "https://github.com/tryblue/keyword",
+  "author": "Alistair Smith <alistairsmith01@gmail.com>",
+  "license": "Apache-2.0",
+  "private": false
+}
