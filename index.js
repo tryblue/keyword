@@ -1,3 +1,8 @@
+/**
+ * Matches keywords to a product
+ * @param {string} productName The name of the product
+ * @param {string} keywords The keywords in +, - format
+ */
 const matchKeyword = (productName, keywords) => {
   const name = productName.toLowerCase().trim();
   return (
