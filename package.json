@@ -1,5 +1,5 @@
 {
-  "name": "@blue/keyword",
+  "name": "blue-keyword",
   "version": "1.0.0",
   "description": "Standard +- keyword matcher",
   "main": "index.js",
