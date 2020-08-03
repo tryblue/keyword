@@ -1,10 +1,11 @@
 {
   "name": "blue-keyword",
-  "version": "1.0.1",
-  "description": "Standard +- keyword matcher",
+  "version": "1.0.2",
+  "description": "Standard +- keyword matcher for Node.",
   "main": "index.js",
   "types": "index.d.ts",
   "repository": "https://github.com/tryblue/keyword",
   "author": "Alistair Smith <alistairsmith01@gmail.com>",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "keywords": ["supreme", "bot", "sneaker bot", "sneakerbot", "shoebot", "shoe bot", "keyword matching", "yeezysupply", "algorithm"]
 }
