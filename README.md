@@ -1,6 +1,10 @@
 # keyword
 
-Keyword matching algorithm
+Keyword matching algorithm 
+
+### Thanks to
+- [@Sodex234](https://github.com/sodex234) – Algorithm
+- [@aabbccsmith](https://github.com/aabbccsmith) – Types and publishing
 
 ### Usage
 
