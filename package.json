@@ -1,6 +1,6 @@
 {
   "name": "blue-keyword",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Standard +- keyword matcher for Node.",
   "main": "index.js",
   "types": "index.d.ts",
